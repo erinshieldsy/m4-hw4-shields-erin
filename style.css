@@ -1,5 +1,5 @@
 body {
-    background-color: blanchedalmond;
+    background-color: antiquewhite;
     max-width: 960px;
     margin: auto;
 }
@@ -9,13 +9,10 @@ header {
     margin- 40px
 }
 
-section > article > h2 {
-    color: blueviolet;
-}
+h1, h2 {text-align: center;}
 
-h1, h2 {
-    text-align: center;
-    color: red;
+h3 ~ p {
+    color: blue;
 }
     
    
