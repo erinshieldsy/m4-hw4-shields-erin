@@ -1,0 +1,25 @@
+body {
+    background-color: blanchedalmond;
+    max-width: 960px;
+    margin: auto;
+}
+
+header {
+    margin-top: 80px
+    margin-bottom: 40px
+}
+
+section > article > h2 {
+    color: blueviolet;
+}
+
+h1, h2 {
+    text-align: center;
+    color: red;
+}
+    
+   
+    
+
+    
+
